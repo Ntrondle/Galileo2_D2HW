@@ -25,6 +25,8 @@ This remix also modifies the geometry of the **Stealburner unit**, as the tight 
 #### Assembly:
 The CAD files are included to guide the assembly process. Contributions and feedback are highly encouraged to further refine the design. 
 
+![Image](./images/picture2.png)
+
 ---
 
 Feel free to suggest edits or add more details if needed!
