@@ -5,11 +5,12 @@
 #### Description:
 This is a remix of the [**Galileo 2 extruder**](https://github.com/JaredC01/Galileo2) by JaredC01, designed to integrate a **pre-extruder gear filament sensor** using the **Omron D2HW-C01 microswitch and MR63ZZ combo**, inspired by the ingenious [**Box Turtle design**](https://github.com/ArmoredTurtle/BoxTurtle) by Armored Turtle. The addition of this sensor provides filament monitoring, while enhancing reliability as opposed to the D2H/5mm Ball bearing combo seen previously on other design...
 
-This remix modifie the geometry of the Stealburner unit slightly, as the microswitch used is a really tight fit.
+This remix also modifies the geometry of the **Stealburner unit**, as the tight fit of the chosen microswitch required slight adjustments.
 
 #### Features:
 - Integration of a **pre-extruder gear filament sensor** for improved filament tracking.
-- Increased Operational Stability while running frequent tool change with Galileo problematic design. modified the filament path slightly to accomodate for this usecase.
+- Enhanced operational stability for frequent tool changes, addressing known issues with Galileo's design.
+- Slightly modified filament path to better accommodate the new sensor setup.
 
 #### Bill of Materials (BOM):
 - **1x Omron D2HW-C01 microswitch**
@@ -19,7 +20,11 @@ This remix modifie the geometry of the Stealburner unit slightly, as the microsw
 
 #### Notes:
 - Ensure proper alignment of the sensor with the filament path for accurate detection.
-- Make sure your printer is tuned before attempting to print this.
+- Verify your printer's tuning before printing and assembling this modification.
 
 #### Assembly:
-CAD files are included to guide the assembly process. Feedback and contributions are welcome!
+The CAD files are included to guide the assembly process. Contributions and feedback are highly encouraged to further refine the design. 
+
+---
+
+Feel free to suggest edits or add more details if needed!
