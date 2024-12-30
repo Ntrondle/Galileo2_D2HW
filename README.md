@@ -1,5 +1,7 @@
 ### Galileo 2 Remix with Pre-Extruder Gear Filament Sensor
 
+![Image](./images/picture1.png)
+
 #### Description:
 This is a remix of the [**Galileo 2 extruder**](https://github.com/JaredC01/Galileo2) by JaredC01, designed to integrate a **pre-extruder gear filament sensor** using the **Omron D2HW-C01 microswitch and MR63ZZ combo**, inspired by the ingenious [**Box Turtle design**](https://github.com/ArmoredTurtle/BoxTurtle) by Armored Turtle. The addition of this sensor provides filament monitoring, while enhancing reliability as opposed to the D2H/5mm Ball bearing combo seen previously on other design...
 
