@@ -13,7 +13,7 @@ This remix also modifies the geometry of the **Stealburner unit**, as the tight 
 - Slightly modified filament path to better accommodate the new sensor setup.
 
 #### Bill of Materials (BOM):
-- **1x Omron D2HW-C01 microswitch**
+- **1x Omron D2HW-C201H microswitch**
 - **1x MR63ZZ bearing**
 - **1x M3 Voron spec heat insert**
 - **1x M3x10 SHCS screw**
