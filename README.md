@@ -33,3 +33,5 @@ Feel free to suggest edits or add more details if needed!
 ---
 
 [If you enjoy my work, consider supporting me by buying me a coffee!](https://buymeacoffee.com/Ntrondle)
+
+![Image](./images/footer Anglais.png)
